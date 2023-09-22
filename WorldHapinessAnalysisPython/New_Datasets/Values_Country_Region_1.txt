@@ -1,0 +1,175 @@
+  1 - Finland(2): Western Europe
+  2 - Denmark(2): Western Europe
+  3 - Iceland(2): Western Europe
+  4 - Israel(2): Middle East and North Africa
+  5 - Netherlands(2): Western Europe
+  6 - Sweden(2): Western Europe
+  7 - Norway(2): Western Europe
+  8 - Switzerland(2): Western Europe
+  9 - Luxembourg(2): Western Europe
+ 10 - New Zealand(2): North America and ANZ
+ 11 - Austria(2): Western Europe
+ 12 - Australia(2): North America and ANZ
+ 13 - Canada(2): North America and ANZ
+ 14 - Ireland(2): Western Europe
+ 15 - United States(2): North America and ANZ
+ 16 - Germany(2): Western Europe
+ 17 - Belgium(2): Western Europe
+ 18 - United Kingdom(2): Western Europe
+ 19 - Lithuania(2): Central and Eastern Europe
+ 20 - France(2): Western Europe
+ 21 - Slovenia(2): Central and Eastern Europe
+ 22 - Costa Rica(2): Latin America and Caribbean
+ 23 - Romania(2): Central and Eastern Europe
+ 24 - Singapore(2): Southeast Asia
+ 25 - United Arab Emirates(2): Middle East and North Africa
+ 26 - Taiwan Province of China(2): East Asia
+ 27 - Uruguay(2): Latin America and Caribbean
+ 28 - Slovakia(2): Central and Eastern Europe
+ 29 - Saudi Arabia(2): Middle East and North Africa
+ 30 - Estonia(2): Central and Eastern Europe
+ 31 - Spain(2): Western Europe
+ 32 - Italy(2): Western Europe
+ 33 - Kosovo(2): Central and Eastern Europe
+ 34 - Chile(2): Latin America and Caribbean
+ 35 - Mexico(2): Latin America and Caribbean
+ 36 - Malta(2): Western Europe
+ 37 - Panama(2): Latin America and Caribbean
+ 38 - Poland(2): Central and Eastern Europe
+ 39 - Nicaragua(2): Latin America and Caribbean
+ 40 - Latvia(2): Central and Eastern Europe
+ 41 - Bahrain(2): Middle East and North Africa
+ 42 - Guatemala(2): Latin America and Caribbean
+ 43 - Kazakhstan(2): Commonwealth of Independent States
+ 44 - Serbia(2): Central and Eastern Europe
+ 45 - Cyprus(2): Western Europe
+ 46 - Japan(2): East Asia
+ 47 - Croatia(2): Central and Eastern Europe
+ 48 - Brazil(2): Latin America and Caribbean
+ 49 - El Salvador(2): Latin America and Caribbean
+ 50 - Hungary(2): Central and Eastern Europe
+ 51 - Argentina(2): Latin America and Caribbean
+ 52 - Honduras(2): Latin America and Caribbean
+ 53 - Uzbekistan(2): Commonwealth of Independent States
+ 54 - Malaysia(2): Southeast Asia
+ 55 - Portugal(2): Western Europe
+ 56 - South Korea(2): East Asia
+ 57 - Greece(2): Western Europe
+ 58 - Mauritius(2): Sub-Saharan Africa
+ 59 - Thailand(2): Southeast Asia
+ 60 - Mongolia(2): East Asia
+ 61 - Kyrgyzstan(2): Commonwealth of Independent States
+ 62 - Moldova(2): Commonwealth of Independent States
+ 63 - China(2): East Asia
+ 64 - Vietnam(2): Southeast Asia
+ 65 - Paraguay(2): Latin America and Caribbean
+ 66 - Montenegro(2): Central and Eastern Europe
+ 67 - Jamaica(2): Latin America and Caribbean
+ 68 - Bolivia(2): Latin America and Caribbean
+ 69 - Russia(2): Commonwealth of Independent States
+ 70 - Bosnia and Herzegovina(2): Central and Eastern Europe
+ 71 - Colombia(2): Latin America and Caribbean
+ 72 - Dominican Republic(2): Latin America and Caribbean
+ 73 - Ecuador(2): Latin America and Caribbean
+ 74 - Peru(2): Latin America and Caribbean
+ 75 - Philippines(2): Southeast Asia
+ 76 - Bulgaria(2): Central and Eastern Europe
+ 77 - Nepal(2): South Asia
+ 78 - Armenia(2): Commonwealth of Independent States
+ 79 - Tajikistan(2): Commonwealth of Independent States
+ 80 - Algeria(2): Middle East and North Africa
+ 81 - Hong Kong S.A.R. of China(2): East Asia
+ 82 - Albania(2): Central and Eastern Europe
+ 83 - Indonesia(2): Southeast Asia
+ 84 - South Africa(2): Sub-Saharan Africa
+ 85 - Congo (Brazzaville)(2): Sub-Saharan Africa
+ 86 - North Macedonia(2): Central and Eastern Europe
+ 87 - Venezuela(2): Latin America and Caribbean
+ 88 - Laos(2): Southeast Asia
+ 89 - Georgia(2): Commonwealth of Independent States
+ 90 - Guinea(2): Sub-Saharan Africa
+ 91 - Ukraine(2): Commonwealth of Independent States
+ 92 - Ivory Coast(2): Sub-Saharan Africa
+ 93 - Gabon(2): Sub-Saharan Africa
+ 94 - Nigeria(2): Sub-Saharan Africa
+ 95 - Cameroon(2): Sub-Saharan Africa
+ 96 - Mozambique(2): Sub-Saharan Africa
+ 97 - Iraq(2): Middle East and North Africa
+ 98 - Morocco(2): Middle East and North Africa
+ 99 - Iran(2): Middle East and North Africa
+100 - Senegal(2): Sub-Saharan Africa
+101 - Mauritania(2): Sub-Saharan Africa
+102 - Burkina Faso(2): Sub-Saharan Africa
+103 - Namibia(2): Sub-Saharan Africa
+104 - Ghana(2): Sub-Saharan Africa
+105 - Pakistan(2): South Asia
+106 - Niger(2): Sub-Saharan Africa
+107 - Tunisia(2): Middle East and North Africa
+108 - Kenya(2): Sub-Saharan Africa
+109 - Sri Lanka(2): South Asia
+110 - Uganda(2): Sub-Saharan Africa
+111 - Chad(2): Sub-Saharan Africa
+112 - Cambodia(2): Southeast Asia
+113 - Benin(2): Sub-Saharan Africa
+114 - Myanmar(2): Southeast Asia
+115 - Bangladesh(2): South Asia
+116 - Gambia(2): Sub-Saharan Africa
+117 - Mali(2): Sub-Saharan Africa
+118 - Egypt(2): Middle East and North Africa
+119 - Togo(2): Sub-Saharan Africa
+120 - Jordan(2): Middle East and North Africa
+121 - Ethiopia(2): Sub-Saharan Africa
+122 - Liberia(2): Sub-Saharan Africa
+123 - India(2): South Asia
+124 - Madagascar(2): Sub-Saharan Africa
+125 - Zambia(2): Sub-Saharan Africa
+126 - Tanzania(2): Sub-Saharan Africa
+127 - Comoros(2): Sub-Saharan Africa
+128 - Malawi(2): Sub-Saharan Africa
+129 - Botswana(2): Sub-Saharan Africa
+130 - Congo (Kinshasa)(2): Sub-Saharan Africa
+131 - Zimbabwe(2): Sub-Saharan Africa
+132 - Sierra Leone(2): Sub-Saharan Africa
+133 - Lebanon(2): Middle East and North Africa
+134 - Afghanistan(2): South Asia
+135 - Kuwait(2): Middle East and North Africa
+136 - Belarus(2): Commonwealth of Independent States
+137 - Turkmenistan(2): Commonwealth of Independent States
+138 - North Cyprus(2): Western Europe
+139 - Libya(2): Middle East and North Africa
+140 - Azerbaijan(2): Commonwealth of Independent States
+141 - Turkey(2): Middle East and North Africa
+142 - Palestinian Territories(2): Middle East and North Africa
+143 - Yemen(2): Middle East and North Africa
+144 - Lesotho(2): Sub-Saharan Africa
+145 - Rwanda(2): Sub-Saharan Africa
+146 - Czech Republic(2): Central and Eastern Europe
+147 - Swaziland(2): Sub-Saharan Africa
+148 - Burundi(2): Sub-Saharan Africa
+149 - Haiti(2): Latin America and Caribbean
+150 - Trinidad and Tobago(2): Latin America and Caribbean
+151 - Macedonia(2): Central and Eastern Europe
+152 - Central African Republic(2): Sub-Saharan Africa
+153 - South Sudan(2): Sub-Saharan Africa
+154 - Qatar(2): Middle East and North Africa
+155 - Bhutan(2): South Asia
+156 - Syria(2): Middle East and North Africa
+157 - Sudan(2): Sub-Saharan Africa
+158 - Angola(2): Sub-Saharan Africa
+159 - Taiwan(2): East Asia
+160 - Suriname(2): Latin America and Caribbean
+161 - Hong Kong(2): East Asia
+162 - Somaliland region(2): Sub-Saharan Africa
+163 - Czechia(1): 
+164 - State of Palestine(1): 
+165 - Turkiye(1): 
+166 - Congo(1): 
+167 - Kingdom of Eswatini(1): 
+168 - xx(1): 
+169 - Maldives(1): South Asia
+170 - Somalia(1): 
+171 - Belize(1): 
+172 - Northern Cyprus(1): 
+173 - Puerto Rico(1): 
+174 - Oman(1): Middle East and North Africa
+175 - Djibouti(1): Sub-Saharan Africa
